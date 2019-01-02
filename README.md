@@ -1,4 +1,4 @@
-# Docker Nginx
+# Docker Postgres
 A Docker container that serves as a PostgreSQL database.
 
 ## Run
